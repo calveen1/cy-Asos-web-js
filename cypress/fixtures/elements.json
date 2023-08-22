@@ -1,0 +1,16 @@
+
+{
+  "searchBar": "[data-testid='search-input']",
+  "dress": "blue jeans",
+  "searchResult": "[id='search-result-2']",
+  "sortBtn": "[data-auto-id='sort']",
+  "whatsNewBtn": "[id='plp_web_sort_whats_new']",
+  "selectDress": "[id='pta-product-204527328-0']",
+  "selectSizeBtn": "[id='variantSelector']",
+  "size": "UK18 L34",
+  "addToBag": "[data-testid='add-button']",
+  "cart": "[data-testid='miniBagIcon']",
+  "checkOut": "[data-testid='checkout-link']",
+  "promptMsg": ".ot-sdk-container > .ot-sdk-row",
+  "acceptBtn": "#onetrust-accept-btn-handler"
+}
